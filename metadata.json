@@ -1,0 +1,6 @@
+{
+  "name": "OmniVoice Studio",
+  "description": "Cross-platform desktop and web studio for speech generation, voice cloning, and audio dubbing.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
